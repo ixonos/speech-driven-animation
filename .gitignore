@@ -1,2 +1,11 @@
 .idea
+
 *.pyc
+
+model_dir/
+*.wav
+*.tmp
+*.avi
+*.mp4
+
+
