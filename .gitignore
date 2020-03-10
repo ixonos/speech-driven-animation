@@ -1,2 +1,13 @@
 .idea
 *.pyc
+
+sda-digi/data/
+sda-digi/model_dir/
+
+*.mpg
+*.wav
+*.mp4
+*.avi
+*.dat
+
+
